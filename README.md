@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-joogabrielsntn66-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joogabrielsntn66@gmail.com)](mailto:joogabrielsntn66@gmail.com)
 
 Olá, prazer!
-Meu nome é João e sou desenvolvedor graduado em Sistemas de Informação pela UFMT.
+Hello, nice to meet you! My name is João and I am a fullstack developer with solid experience in Angular, PHP and Python.
 
 <!-- [![Medium Badge](https://img.shields.io/badge/-@joogabrielsntn66-000000?style=flat&labelColor=000000&logo=Medium&link=https://joogabrielsntn66.medium.com)](https://joogabrielsntn66.medium.com)
 [![Instagram Badge](https://img.shields.io/badge/-@joogabriel.sntn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/joogabriel.sntn/)](https://instagram.com/joogabriel.sntn) -->
